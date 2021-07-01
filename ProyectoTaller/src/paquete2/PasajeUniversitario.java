@@ -11,8 +11,7 @@ import java.io.Serializable;
  *
  * @author reroes
  */
-public class PasajeUniversitario extends PasajeInterCantonal 
-        implements Serializable{
+public class PasajeUniversitario extends PasajeInterCantonal {
     
     
     
